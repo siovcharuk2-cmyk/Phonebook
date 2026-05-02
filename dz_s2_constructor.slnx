@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dz_s2_constructor/dz_s2_constructor.vcxproj" Id="983366c3-fd9c-4717-b214-9f261eced72f" />
+</Solution>
